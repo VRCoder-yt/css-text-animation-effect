@@ -2,4 +2,4 @@
 
 Video tutorial CSS text animation effect
 
-<video src='https://www.youtube.com/embed//NekGT9RghpE' allowfullscreen></video>
+<video src='https://www.youtube.com/embed//NekGT9RghpE'></video>
